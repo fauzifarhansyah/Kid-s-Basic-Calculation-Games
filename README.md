@@ -1,3 +1,5 @@
+Scrum Trello: https://trello.com/invite/b/6810d3d1602225d5f48a208f/ATTI27631e16176ac542c43ff0aa91fcae00DB35531D/kid-s-basic-calculation-games
+
 # Kid-s-Basic-Calculation-Games
 Aplikasi ini adalah permainan matematika sederhana untuk anak-anak, membantu mereka belajar operasi dasar (penjumlahan, pengurangan, perkalian, pembagian) dengan cara yang menyenangkan.
 
