@@ -1,5 +1,7 @@
 # Scrum Trello: 
-https://trello.com/invite/b/6810d3d1602225d5f48a208f/ATTI27631e16176ac542c43ff0aa91fcae00DB35531D/kid-s-basic-calculation-games
+[https://trello.com/invite/b/6810d3d1602225d5f48a208f/ATTI27631e16176ac542c43ff0aa91fcae00DB35531D/kid-s-basic-calculation-games]
+/
+(https://trello.com/b/ssL6YpJV)
 
 # Anggota : 
 1. Fauzi Farhansyah
