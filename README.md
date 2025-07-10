@@ -7,6 +7,7 @@
 1. Fauzi Farhansyah
 2. Reffi Firdaus
 3. Rijal Al Ihsan
+4. Guruh Khaerullah Kusvhi
 
 # Kid-s-Basic-Calculation-Games
 Aplikasi ini adalah permainan matematika sederhana untuk anak-anak, membantu mereka belajar operasi dasar (penjumlahan, pengurangan, perkalian, pembagian) dengan cara yang menyenangkan.
